@@ -1,3 +1,3 @@
 # excel-eda-project 
-product sales & profit dataset
+Retail Sales Analysis Project file 
 
