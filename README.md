@@ -1,2 +1,3 @@
-# excel-eda-project
-this is my first project
+# excel-eda-project 
+product sales & profit dataset
+
